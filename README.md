@@ -31,3 +31,4 @@ Features
 Session Management: Starts a session and initializes session variables.
 Request Forwarding: Forwards requests to an HTML page using RequestDispatcher.
 Handles GET and POST Requests: The servlet processes both types of requests
+Developed by Sifiso Vinjwa

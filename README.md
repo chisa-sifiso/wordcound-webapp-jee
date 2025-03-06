@@ -3,8 +3,7 @@
 Use an IDE like NetBeans or Eclipse configured with a server (e.g., Apache TomEE or WildFly).
 Configure the server:
 
-Deploy the project on a Java EE-compliant server.
-Access the application:
+Deploy the project on a Java EE-compliant server.Deployec on glassfish serverAccess the application:
 
 Open a browser and navigate .
 Usage
